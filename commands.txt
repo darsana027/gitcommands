@@ -1,2 +1,8 @@
 1.git init
-      >>for initializing empty repository
+ 	>>for initializing empty repository
+2.git status
+	>>for listing all untracked files
+3.git add -A
+	>>for adding all untracked files to staging area
+4.git commit -m "msg"
+	>>adding files to local repository
